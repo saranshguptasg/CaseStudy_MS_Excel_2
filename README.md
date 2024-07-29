@@ -32,3 +32,7 @@ The objective of this analysis is to derive meaningful insights from the sales d
 ## Visualisation using MS Excel
 
 # <p align="left">  <img src="https://github.com/saranshguptasg/CaseStudy_MS_Excel_2/blob/main/Screenshot/Regional%20Analysis%20using%20MS%20Excel.png" style="width:900px; height:auto; border: 10px solid black;"> </p>
+
+## Visualisation using Tableau
+
+# <p align="left">  <img src="https://github.com/saranshguptasg/CaseStudy_MS_Excel_2/blob/main/Screenshot/Regional%20Analysis%20using%20Tableau.png" style="width:900px; height:auto; border: 10px solid black;"> </p>
