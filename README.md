@@ -36,3 +36,31 @@ The objective of this analysis is to derive meaningful insights from the sales d
 ## Visualisation using Tableau
 
 # <p align="left">  <img src="https://github.com/saranshguptasg/CaseStudy_MS_Excel_2/blob/main/Screenshot/Regional%20Analysis%20using%20Tableau.png" style="width:900px; height:auto; border: 10px solid black;"> </p>
+
+## Conclusion
+
+I have replicated the visualizations originally done in Excel using Tableau, which is shared with the community.
+
+The key analyses performed focus on the following metrics:
+
+# 1.Total Sales, Units, and Profits: 
+
+- A comprehensive summary of overall performance.
+
+# 2. Trend of Sales: 
+
+- Analysis of sales patterns over the years and on a monthly basis to identify seasonal trends.
+
+# 3. Top 5 Products by Profit: 
+
+- Identifying the highest-grossing products to determine which items contribute most significantly to profitability.
+
+# 4. Number of Purchases in Different Sales Bins: 
+
+- Categorizing sales data into bins to observe purchasing behavior.
+
+# 5. Customer Sales: 
+
+- Examining sales per customer to understand individual customer contributions and potential areas for growth.
+
+The analyses and visualizations above provide valuable insights into sales performance, product profitability, customer behavior, and overall business trends.
