@@ -10,7 +10,7 @@
 
 [Tableau Analysis (File)](https://github.com/saranshguptasg/CaseStudy_MS_Excel_2/blob/main/Regional%20Customer%20Analysis.twb)
 
-## Business Problem Statement
+## Plan to Solve the Problem
 
 The objective of this analysis is to derive meaningful insights from the sales data of a retail business to optimize sales performance and profitability. The data consists of one main table: Regional Data.xlsx, which records the detailed information of the regional sales between sales rep and customer. By analyzing this data, the goal is to understand customer preferences, identify high-value products, and enhance sales strategies. The specific business problems we aim to address include:
 
@@ -28,3 +28,7 @@ The objective of this analysis is to derive meaningful insights from the sales d
   
 #### 5. Customer Sales Analysis: 
 - Examining customer sales to identify key customer segments and tailor marketing strategies to boost customer engagement and retention.
+
+## Visualisation using MS Excel
+
+![MS Excel Visualisation](https://github.com/saranshguptasg/CaseStudy_MS_Excel_2/blob/main/Screenshot/Regional%20Analysis%20using%20MS%20Excel.png)
