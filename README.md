@@ -39,8 +39,6 @@ The objective of this analysis is to derive meaningful insights from the sales d
 
 ## Conclusion
 
-I have replicated the visualizations originally done in Excel using Tableau, which is shared with the community.
-
 The key analyses performed focus on the following metrics:
 
 #### 1. Total Sales, Units, and Profits: 
