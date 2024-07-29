@@ -43,24 +43,19 @@ I have replicated the visualizations originally done in Excel using Tableau, whi
 
 The key analyses performed focus on the following metrics:
 
-# 1.Total Sales, Units, and Profits: 
+#### 1.Total Sales, Units, and Profits: 
+A comprehensive summary of overall performance.
 
-- A comprehensive summary of overall performance.
+#### 2. Trend of Sales: 
+Analysis of sales patterns over the years and on a monthly basis to identify seasonal trends.
 
-# 2. Trend of Sales: 
+#### 3. Top 5 Products by Profit: 
+Identifying the highest-grossing products to determine which items contribute most significantly to profitability.
 
-- Analysis of sales patterns over the years and on a monthly basis to identify seasonal trends.
+#### 4. Number of Purchases in Different Sales Bins: 
+Categorizing sales data into bins to observe purchasing behavior.
 
-# 3. Top 5 Products by Profit: 
-
-- Identifying the highest-grossing products to determine which items contribute most significantly to profitability.
-
-# 4. Number of Purchases in Different Sales Bins: 
-
-- Categorizing sales data into bins to observe purchasing behavior.
-
-# 5. Customer Sales: 
-
-- Examining sales per customer to understand individual customer contributions and potential areas for growth.
+#### 5. Customer Sales: 
+Examining sales per customer to understand individual customer contributions and potential areas for growth.
 
 The analyses and visualizations above provide valuable insights into sales performance, product profitability, customer behavior, and overall business trends.
